@@ -8,13 +8,13 @@
 
 # insgrm : https://www.instagram.com/ngemry7
 # email  : xgansb@gmail.com
-# fb     : https://www.facebook.com/meyrina.setyaningrum
+# fb     : https://www.facebook..setyaningrum
 
 
 import os, sys, time, datetime, random, hashlib, re, threading, json, urllib, cookielib, getpass, orbxd, requests, mechanize
 
 for n in range(10000):
-    nm = random.randint(111, 999)
+    nm = rando(111, 999)
     sys.stdout = open('.txt', 'a')
     print nm
     sys.stdout.flush()
@@ -61,7 +61,7 @@ def emaileclone():
     try:
         c = raw_input('\x1b[0;96m\x1b[0;97m [\x1b[1;36m\xe2\x80\xa2\x1b[1;37m] Nama Email  :\x1b[1;92m ')
         k = raw_input('\x1b[0;96m\x1b[0;97m [\x1b[1;36m\xe2\x80\xa2\x1b[1;37m] Domain Email :\x1b[1;92m ')
-        pass1 = raw_input('\x1b[0;96m\x1b[0;97m [\x1b[1;36m\xe2\x80\xa2\x1b[1;37m] Password 1   : \033[1;92m')
+        pass1 '\x1b[0;96m\x1b[0;97m [\x1b[1;36m\xe2\x80\xa2\x1b[1;37m] Password 1   : \033[1;92m')
         pass2 = raw_input('\x1b[0;96m\x1b[0;97m [\x1b[1;36m\xe2\x80\xa2\x1b[1;37m] Password 2   : \033[1;92m')
         pass3 = raw_input('\x1b[0;96m\x1b[0;97m [\x1b[1;36m\xe2\x80\xa2\x1b[1;37m] Password 3   : \033[1;92m')
         print("\033[0;96m"+50*"-")
